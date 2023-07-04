@@ -1,0 +1,15 @@
+C:\Users\12345\Desktop\Seminar_6\tacs_41\bin\Debug\net7.0\tacs_41.exe
+C:\Users\12345\Desktop\Seminar_6\tacs_41\bin\Debug\net7.0\tacs_41.deps.json
+C:\Users\12345\Desktop\Seminar_6\tacs_41\bin\Debug\net7.0\tacs_41.runtimeconfig.json
+C:\Users\12345\Desktop\Seminar_6\tacs_41\bin\Debug\net7.0\tacs_41.dll
+C:\Users\12345\Desktop\Seminar_6\tacs_41\bin\Debug\net7.0\tacs_41.pdb
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.AssemblyInfo.cs
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.dll
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\refint\tacs_41.dll
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.pdb
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\tacs_41.genruntimeconfig.cache
+C:\Users\12345\Desktop\Seminar_6\tacs_41\obj\Debug\net7.0\ref\tacs_41.dll
