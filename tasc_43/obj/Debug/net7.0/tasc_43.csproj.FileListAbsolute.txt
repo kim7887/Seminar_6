@@ -1,0 +1,15 @@
+C:\Users\12345\Desktop\Seminar_6\tasc_43\bin\Debug\net7.0\tasc_43.exe
+C:\Users\12345\Desktop\Seminar_6\tasc_43\bin\Debug\net7.0\tasc_43.deps.json
+C:\Users\12345\Desktop\Seminar_6\tasc_43\bin\Debug\net7.0\tasc_43.runtimeconfig.json
+C:\Users\12345\Desktop\Seminar_6\tasc_43\bin\Debug\net7.0\tasc_43.dll
+C:\Users\12345\Desktop\Seminar_6\tasc_43\bin\Debug\net7.0\tasc_43.pdb
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.AssemblyInfo.cs
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.dll
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\refint\tasc_43.dll
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.pdb
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\tasc_43.genruntimeconfig.cache
+C:\Users\12345\Desktop\Seminar_6\tasc_43\obj\Debug\net7.0\ref\tasc_43.dll
